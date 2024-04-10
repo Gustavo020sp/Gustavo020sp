@@ -1,4 +1,5 @@
-![WELCOME TO MY GITHUB](https://github.com/Gustavo020sp/Gustavo020sp/assets/111130726/e7c4840f-9a80-4e2c-96dd-7b5f448f4ad4)
+
+![WELCOMETOMYGITHUB1-ezgif com-crop](https://github.com/Gustavo020sp/Gustavo020sp/assets/111130726/7de04624-50a3-4c99-9439-0fb9b7e9414c)
 
 
 ### Hi there 👋
