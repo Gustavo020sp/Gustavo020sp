@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Websites using C# ASP.Net MVC 
+- 🌱 I’m currently learning New Front-End Frameworks and Advanced Back-End development
+- 👯 I’m looking to collaborate on new individual projects
 <!--
 **Gustavo020sp/Gustavo020sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
