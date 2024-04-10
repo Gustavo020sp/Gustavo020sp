@@ -2,6 +2,9 @@
 - 🔭 I’m currently working on Websites using C# ASP.Net MVC 
 - 🌱 I’m currently learning New Front-End Frameworks and Advanced Back-End development
 - 👯 I’m looking to collaborate on new individual projects
+
+  ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/Gustavo020sp/Gustavo020sp/assets/111130726/3dac41e6-a276-40bf-a790-bce4d4846ba0)
+
 <!--
 **Gustavo020sp/Gustavo020sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
