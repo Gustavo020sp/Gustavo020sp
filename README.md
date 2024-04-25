@@ -34,7 +34,7 @@
 </p>
 <br>
 <p align="left">
-  <strong>ENG-USA</strong>
+  <strong>ENG-US</strong>
 </p>
 <p align="left"> 
   Hello, I have +2 years of experience in software development, focusing on C# .Net / ASPnet and HTML / CSS / BOOTSTRAP.<br>
