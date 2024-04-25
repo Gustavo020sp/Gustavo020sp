@@ -1,23 +1,31 @@
 
-![WELCOMETOMYGITHUB1-ezgif com-crop](https://github.com/Gustavo020sp/Gustavo020sp/assets/111130726/7de04624-50a3-4c99-9439-0fb9b7e9414c)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+  Me chamo Gustavo, tenho +2 anos de experiência na área de desenvolvimento de software, com foco em<strong>C# .Net / ASPnet e HTML / CSS / BOOTSTRAP</strong>.<br>
+  Atualmente trabalhando em projetos web solo, com MVC e Entity Framework e front-end focado em bootstrap e Javascript.
+</p>
 
-### Hi there 👋
-- 🔭 I’m currently working on Websites using C# ASP.Net MVC 
-- 🌱 I’m currently learning New Front-End Frameworks and Advanced Back-End development
-- 👯 I’m looking to collaborate on new individual projects
+<p align="left">
+  🦄 Linguagens: C# - Visual Basic - HTML/CSS - Javascript
+</p>
 
-<!--
-**Gustavo020sp/Gustavo020sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  💼 Ferramentas: Visual Basic como principal IDE - Git Bash - MySql Workbench - Bitbucket - Jira
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+   ⤵️ 
+    Contato: (11) 99955-9544
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=gustavo020sp@gmail.com&su=SUBJECT&body=BODY&&tf=cm" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-gomes-901ab4248/" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511999559544" alt="WhatsApp"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavoagomes_/" alt="Instagram"/></a>
+</p>
