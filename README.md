@@ -2,12 +2,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, tenho +2 anos de experiência na área de desenvolvimento de software, com foco em<strong>C# .Net / ASPnet e HTML / CSS / BOOTSTRAP</strong>.<br>
+  Olá, tenho +2 anos de experiência na área de desenvolvimento de software, com foco em C# .Net / ASPnet e HTML / CSS / BOOTSTRAP.<br>
   Atualmente trabalhando em projetos web solo, com MVC e Entity Framework e front-end focado em bootstrap e Javascript.
 </p>
 
 <p align="left">
-  💻 Linguagens: C# - Visual Basic - HTML/CSS - Javascript
+  💻 Linguagens: <strong>C# - Visual Basic - HTML/CSS - Javascript</strong>
 </p>
 
 <p align="left">
