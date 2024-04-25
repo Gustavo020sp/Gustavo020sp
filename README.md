@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/?" title="Gmail">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=gustavo020sp@gmail.com&su=SUBJECT&body=BODY&&tf=cm" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=gustavo020sp@gmail.com&su=SUBJECT&body=BODY&&tf=cm" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/gustavo-gomes-901ab4248" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-gomes-901ab4248" alt="LinkedIn"/></a>
