@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Basic como principal IDE - Git Bash - MySql Workbench - Bitbucket - Jira
+  💼 Ferramentas: Visual Studio Code como principal IDE - Git Bash - MySql Workbench - Bitbucket - Jira
 </p>
 
 <p align="left">
@@ -46,7 +46,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: Visual Basic as main IDE - Git Bash - MySql Workbench - Bitbucket - Jira
+  💼 Tools: Visual Studio Code as main IDE - Git Bash - MySql Workbench - Bitbucket - Jira
 </p>
 
 <p align="left">
