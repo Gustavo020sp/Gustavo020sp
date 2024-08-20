@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code como principal IDE - Git Bash - MySql Workbench - Bitbucket - Jira
+  💼 Ferramentas e Frameworks: Visual Studio Code - Git Bash - MySql Workbench - Bitbucket - Jira - Entity Framework
 </p>
 
 <p align="left">
@@ -46,7 +46,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: Visual Studio Code as main IDE - Git Bash - MySql Workbench - Bitbucket - Jira
+  💼 Tools and Frameworks: Visual Studio Code - Git Bash - MySql Workbench - Bitbucket - Jira - Entity Framework
 </p>
 
 <p align="left">
