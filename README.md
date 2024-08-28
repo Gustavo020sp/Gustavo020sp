@@ -5,7 +5,7 @@
   <strong>PT-BR</strong>
 </p>
 <p align="left"> 
-  Olá, tenho +2 anos de experiência na área de desenvolvimento de software, com foco em C# .Net / ASPnet e HTML / CSS / BOOTSTRAP.<br>
+  Olá, tenho +2 anos de experiência na área de desenvolvimento de software, com foco em C# .Net / ASPnet Core e HTML / CSS / BOOTSTRAP.<br>
   Atualmente trabalhando em projetos web solo, com MVC e Entity Framework e front-end focado em bootstrap e Javascript.
 </p>
 
@@ -37,7 +37,7 @@
   <strong>ENG-US</strong>
 </p>
 <p align="left"> 
-  Hello, I have +2 years of experience in software development, focusing on C# .Net / ASPnet and HTML / CSS / BOOTSTRAP.<br>
+  Hello, I have +2 years of experience in software development, focusing on C# .Net / ASPnet Core and HTML / CSS / BOOTSTRAP.<br>
   Currently working on solo web projects, with MVC and Entity Framework and front-end focused on bootstrap and Javascript.
 </p>
 
