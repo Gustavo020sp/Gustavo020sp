@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I’m a software developer with 3 years of hands-on experience specializing in Python and C#. My work spans automation, full-stack web development and AI/ML solutions. I currently lead solo web projects end-to-end—developing robust back-end systems in Python and crafting responsive front-end interfaces using HTML, CSS, Bootstrap, and JavaScript.<br>
+  I’m a software developer with 3 years of hands-on experience specializing in Python and C#. My work spans automation, full-stack web development and AI/ML solutions. I currently lead solo web projects end-to-end—developing robust back-end systems in Python and crafting responsive front-end interfaces using HTML, CSS, Bootstrap, and JavaScript.<br><br>
   Driven by problem-solving and clean code, I’ve built scalable applications that integrate automation and intelligent features. Whether it’s a data-driven machine learning model or a dynamic user interface, I bring both functionality and polish to every project.
 </p>
 
