@@ -2,16 +2,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello, I have 3 years of experience in software development, focusing on C# .Net / ASPnet Core and HTML / CSS / BOOTSTRAP.<br>
-  Currently working on solo web projects, with MVC and Entity Framework and front-end focused on bootstrap and Javascript.
+  Hello, I have 3 years of experience in software development, focusing on Python and C# / HTML / CSS / BOOTSTRAP.<br>
+  Currently working on solo web projects, with Python for web, automations and AI/ML, sometimes with some front-end focused on bootstrap and Javascript.
 </p>
 
 <p align="left">
-  💻 Languages: <strong>C# - Visual Basic - HTML/CSS - Javascript</strong>
+  💻 Languages: <strong> Python - C# - HTML/CSS - Javascript</strong>
 </p>
 
 <p align="left">
-  💼 Tools and Frameworks: Visual Studio Code - Git Bash - MySql Workbench - Bitbucket - Jira - Entity Framework
+  💼 Tools and Frameworks: Pycharm: for python development - Vs Code: for some front-end projects - Git Bash - MySql Workbench - Bitbucket - Jira - Entity Framework
 </p>
 
 <p align="left">
