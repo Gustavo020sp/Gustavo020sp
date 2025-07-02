@@ -15,11 +15,6 @@
 </p>
 
 <p align="left">
-   ⤵️ 
-    Contact: +55 (11) 99955-9544
-</p>
-
-<p align="left">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=gustavo020sp@gmail.com&su=SUBJECT&body=BODY&&tf=cm" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=gustavo020sp@gmail.com&su=SUBJECT&body=BODY&&tf=cm" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/gustavo-gomes-901ab4248" title="LinkedIn">
