@@ -2,16 +2,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I’m a software developer with 3 years of hands-on experience specializing in Python and C#. My work spans automation, full-stack web development, data analisys and AI/ML solutions. I currently lead solo web projects end-to-end—developing robust back-end systems in Python and crafting responsive front-end interfaces using HTML, CSS, Bootstrap, and JavaScript.<br><br>
+  I’m a software developer with 3 years of hands-on experience specializing in C#. My work spans automation, back-end development and data analisys solutions. I currently lead solo web projects end-to-end—developing robust back-end systems in .NET and crafting responsive front-end interfaces using HTML, CSS, Bootstrap, and JavaScript.<br><br>
   Driven by problem-solving and clean code, I’ve built scalable applications that integrate automation and intelligent features. Whether it’s a data-driven machine learning model or a dynamic user interface, I bring both functionality and polish to every project.
 </p>
 
 <p align="left">
-  💻 Languages: <strong> Python - C# - HTML/CSS - Javascript</strong>
+  💻 Languages: <strong> C# - SQL - HTML/CSS - Javascript</strong>
 </p>
 
 <p align="left">
-  💼 Tools and Frameworks: Pycharm: for python development - Vs Code: for some front-end projects - Git Bash - MySql Workbench - Bitbucket - Jira - Entity Framework
+  💼 Tools and Frameworks: Vs Code: for back-end and some front-end projects - Git Bash - MySql Workbench - Bitbucket - Jira - Entity Framework
 </p>
 
 <p align="left">
